@@ -12,10 +12,9 @@ examples of NLP models for *text summarization*, *text classification* and
 
 - `data` data sets used in the models
 - `transformers` sample usage of the transformers APIs
-- `text_classification_keras.ipynb` 
-- `text_classification_RNN.ipynb`
-- `text_processing_nltk.ipynb` 
-- `text_summarization_nltk.ipynb`
+- `nltk` natural language toolkit examples 
+- `tensorFlow-keras` keras examples
+- `word2vec` example of model using word2vec
 
 
 
