@@ -16,7 +16,7 @@ Current approaches to NLP are based on deep learning, a subgroup of AI that exam
 **Benefits of NLP**
 
 - Improves accuracy and efficiency when processing documentation.
-- It has ability to: `read`, `classify`, `summarize`, `generate text`, `translate`, `extract information` and `sentiment` from the texts.
+- It has ability to: `read`, `classify`, `summarize`, `generate text`, `translate`, `extract information` and `sentiment` from texts.
 
 **Usage of NLP**
 
