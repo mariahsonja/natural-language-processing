@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.7-brightgreen.svg)
 ![NLP](https://img.shields.io/badge/AI-NLP-orange)
 
-### If you are new to it, an overview
+### Overview
 
 Natural Language Processing (NLP) is a subfield of Artificial Intelligence (AI) that enables a computer to read, understand and process human language.
 
@@ -16,7 +16,7 @@ Current approaches to NLP are based on deep learning, a subgroup of AI that exam
 **Benefits of NLP**
 
 - Improves accuracy and efficiency when processing documentation.
-- It has ability to: read, classify, summarize, extract information and sentiment from the texts.
+- It has ability to: `read`, `classify`, `summarize`, `generate text`, `translate`, `extract information` and `sentiment` from the texts.
 
 **Usage of NLP**
 
