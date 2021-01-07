@@ -1,21 +1,42 @@
 # Natural Language Processing 
 ![Python](https://img.shields.io/badge/Python-3.7-brightgreen.svg)
+![NLP](https://img.shields.io/badge/AI-NLP-orange)
+
+### If you are new to it, an overview
+
+Natural Language Processing (NLP) is a subfield of Artificial Intelligence (AI) that enables a computer to read, understand and process human language.
+
+**How NLP works**
+
+Current approaches to NLP are based on deep learning, a subgroup of AI that examines and uses patterns in data to improve a program's understanding. There are two main algorithms used to solve NLP problems:
+
+- *Rule-based approach:* Grammatical rules created by experts in linguistics, or knowledge engineers.
+- *Machine learning algorithms:* Machine learning models based on statistical methods to perform tasks after being fed examples (training data). 
+
+**Benefits of NLP**
+
+- Improves accuracy and efficiency when processing documentation.
+- It has ability to: read, classify, summarize, extract information and sentiment from the texts.
+
+**Usage of NLP**
+
+- Chatbots for customer support
+- Personal assistants such as Siri and Alexa
 
 ### NLP Jupyter Notebooks Examples in Python :snake: 
 
 In this repository I added a collection of jupyter notebooks with 
 examples of NLP models for *text summarization*, *text classification* and 
-*text pre-processing* tasks using **TensorFlow Keras**, **NLTK**, 
+*text pre-processing* and tasks using **TensorFlow**, **NLTK**, 
 **word2vec**, etc.
 
 **It contains:**
 
 - `data` data sets used in the models
-- `transformers` sample usage of the transformers APIs
 - `nltk` natural language toolkit examples 
-- `tensorFlow-keras` keras examples
+- `tensorFlow` tensorFlow NLP examples of *encoding-embeddings*,  *neural-network* models based, *text-processing*, etc.
+- `transformers` sample usage of the transformers APIs
 - `word2vec` example of model using word2vec
-
 
 
 *This collection of Jupyter Notebooks came from my own studies and trainings I have done during the past years. They are all updated to be used with `Python 3.7`.*
