@@ -1,6 +1,10 @@
 # Natural Language Processing 
 ![Python](https://img.shields.io/badge/Python-3.7-brightgreen.svg)
 ![NLP](https://img.shields.io/badge/AI-NLP-orange)
+![NLTK](https://img.shields.io/badge/NLP-NLTK-green)
+![TensorFlow](https://img.shields.io/badge/NLP-TensorFlow-blue)
+![Transformers](https://img.shields.io/badge/NLP-Transformers-yellow)
+![word2vec](https://img.shields.io/badge/NLP-word2vec-pink)
 
 ### Overview
 
@@ -23,11 +27,11 @@ Current approaches to NLP are based on deep learning, a subgroup of AI that exam
 - Chatbots for customer support
 - Personal assistants such as Siri and Alexa
 
-### NLP Jupyter Notebooks Examples in Python :snake: 
+### This Repo
 
 In this repository I added a collection of jupyter notebooks with 
 examples of NLP models for *text summarization*, *text classification* and 
-*text pre-processing* and tasks using **TensorFlow**, **NLTK**, 
+*text pre-processing* and tasks using **TensorFlow**, **NLTK**, **Transformers**,
 **word2vec**, etc.
 
 **It contains:**
